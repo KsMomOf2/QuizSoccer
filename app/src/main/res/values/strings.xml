@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Soccer Quiz</string>
+    <string name="strTrue">True</string>
+    <string name="strFalse">False</string>
+    <string name="strNext">Next</string>
+    <string name="strHint">Hint</string>
+    <string name="strSure">Are you sure\?</string>
+    <string name="strShow">Show</string>
+    <string name="question1">The Women\'s World Cup in 2019 will be held in France.</string>
+    <string name="correctToast">Absolutely! Great Job</string>
+    <string name="incorrectToast">Nope!</string>
+    <string name="question2">The Men\'s World Cup in 2018 was held in Saudi Arabia</string>
+    <string name="question3">In 2018 Belgium won the Men\'s World Cup</string>
+    <string name="question4">In 2018 Russia won their first game 5 to 0</string>
+    <string name="question5">In 2018 Croatia was the runner up</string>
+</resources>

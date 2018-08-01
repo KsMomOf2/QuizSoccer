@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "208023131924",
+    "firebase_url": "https://quizsoccer-612b6.firebaseio.com",
+    "project_id": "quizsoccer-612b6",
+    "storage_bucket": "quizsoccer-612b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208023131924:android:e8916e7cc354d93f",
+        "android_client_info": {
+          "package_name": "org.bishopireton.quizsoccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208023131924-mknnb5idquimfbe7idvd9sfon644u9be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.bishopireton.quizsoccer",
+            "certificate_hash": "8154b157bd8ffdad5b78c13604ededa54a0ebece"
+          }
+        },
+        {
+          "client_id": "208023131924-a5nu1h76aedeemqq3aikbs78rrj3aorf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkNrmazFAlAeTkpyzwN7mmEwZF2z5MzyY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208023131924-a5nu1h76aedeemqq3aikbs78rrj3aorf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

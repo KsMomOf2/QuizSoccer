@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDarkPurple">#450084    </color>
+    <color name="colorPurple">#B599CE</color>
+    <color name="colorLightPurple">#DACCE6</color>
+    <color name="colorDarkGold">#AD9C65</color>
+    <color name="colorGold">#CBB677</color>
+    <color name="colorLightGold">#F4EFE1</color>
+    <color name="colorSlate">#333333</color>
+    <color name="colorDarkGray">#595959</color>
+    <color name="colorGray">#B2B2B2</color>
+    <color name="colorLightGray">#D6D6D6</color>
+
+    <color name = "colorAccentDarkGreen">#5F791C</color>
+    <color name = "colorAccentGreen">#ADCC23</color>
+    <color name = "colorAccentLightGreen">#DEEBA7 </color>
+    <color name = "colorAccentDarkBlue">#3C738B</color>
+    <color name = "colorAccentBlue">#5498B6</color>
+    <color name = "colorAccentLightBlue">#D2EBF5</color>
+    <color name = "colorAccentRed">#A4232B</color>
+    <color name = "colorAccentYellow">#FFBD00</color>
+    <color name = "colorBGDarkBrown">#AD9C65</color>
+    <color name = "colorBGPurple">#B599CE</color>
+    <color name = "colorBGLightBrown">#DFD2AA</color>
+    <color name = "colorBGTan">#EAE1C6</color>
+    <color name = "colorBGPeriwinkle">#3C738B</color>
+    <color name="colorBGDarkGreen">#86A231</color>
+</resources>
